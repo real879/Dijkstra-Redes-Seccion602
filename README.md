@@ -15,3 +15,12 @@ grafo={
 }
  
  donde "nodo_a" y "nodo_b" son los nodos a los cuales "nodo" esta conectado
+ 
+ Finalmente llamar a la funcion "Dijkstra" de la forma:
+ 
+ Dijkstra(grafo , nodo_inicial, nodo_final) 
+ 
+ donde "grafo" es el grafo donde se buscara el recorrido,
+ "nodo_inicial" es el nodo donde se inicia el recorrido y
+ "nodo_final" es el nodo de destino.
+ 
